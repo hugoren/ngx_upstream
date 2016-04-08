@@ -248,12 +248,4 @@ You can customize your UI by the API following these steps:
 
 2. 使用诸如javascript的客户脚本调用AJAX接口来更新upstream配置  
 2. Edit the client script such as javascript to modify upstream configuration. The client script can be embbed into the html page Whick you just has written in previous step.   
-   
---- 
-
-#关于作者
-#Author
-* dss_liuhl 
-* QQ:1610153337 
-* email:15817409379@163.com
-# ngx_upstream
+ 
